@@ -3,7 +3,7 @@ title: "Stat Group - Students and Postdocs"
 layout: gridlay
 excerpt: "Stat Group: Students and Postdocs"
 sitemap: false
-permalink: /team/
+permalink: /students_and_postdocs/
 ---
 
 
