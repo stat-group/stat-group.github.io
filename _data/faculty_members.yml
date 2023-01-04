@@ -47,6 +47,25 @@
   number_educ: 1
   education1: Ph.D. Princeton University
   
- 
-
+- name: Inga Maslova
+  photo: Maslova.jpg
+  info: Assistant Professor of Clinical Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/inga-maslova))
+  email: imaslova@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. Utah State University
+  
+- name: Gourab Mukherjee
+  photo: Mukherjee.jpg
+  info: Associate Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/gourab-mukherjee))
+  email: gmukherj@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. Stanford University
+  
+- name: Dawn Porter
+  photo: Porter.jpg
+  info: Academic Director for the Masters of Science in Business Analytics, and Professor of Clinical Data Sciences and Operations Management ([View Profile](https://www.marshall.usc.edu/personnel/dawn-porter))
+  email: dcporter@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. New York University
+  
   
