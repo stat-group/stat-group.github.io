@@ -1,23 +1,6 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Rashmi Ranjan Bhuyan
+  photo: Bhuyan.jpg
+  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/rashmi-ranjan-bhuyan))
+  email: RashmiRanjan.Bhuyan@marshall.usc.edu
   number_educ: 0
-  education1:
-
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+  education1: 
