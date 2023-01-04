@@ -68,4 +68,25 @@
   number_educ: 1
   education1: Ph.D. New York University
   
+- name: Phil Rogers
+  photo: Rogers.jpg
+  info: Associate Professor of Clinical Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/phil-rogers))
+  email: phil.rogers@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. University of California, Berkeley
+  
+- name: Matteo Sesia
+  photo: Matteo.jpg
+  info: Assistant Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/matteo-sesia))
+  email: sesia@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. Stanford University
+  
+- name: Xin Tong
+  photo: Tong.JPG
+  info: Associate Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/xin-tong))
+  email: xint@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. Princeton University
+  
   
