@@ -9,7 +9,7 @@ permalink: /students_and_postdocs/
 
 ## Current PhD Students
 {% assign number_printed = 0 %}
-{% for member in site.data.faculty_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
