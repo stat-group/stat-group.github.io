@@ -6,6 +6,7 @@ sitemap: false
 permalink: /students_and_postdocs/
 ---
 
+## Prospective PhD Students
 
 ## Current PhD Students
 {% assign number_printed = 0 %}
@@ -38,6 +39,5 @@ permalink: /students_and_postdocs/
 </div>
 {% endif %}
 
-
-
+## Postdocs
 
