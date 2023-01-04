@@ -3,7 +3,7 @@ title: "Stat Group - Faculty"
 layout: gridlay
 excerpt: "Stat Group: Faculty members"
 sitemap: false
-permalink: /team/
+permalink: /faculty/
 ---
 
 
