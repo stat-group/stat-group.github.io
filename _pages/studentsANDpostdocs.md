@@ -8,6 +8,8 @@ permalink: /students_and_postdocs/
 
 ## Prospective PhD Students
 
+If you are interested in our Statistics and Data Science Ph.D. program, please see [here](https://uscstats.github.io/) for how to apply, application deadlines, and Zoom information session details and also check out the Ph.D. [brochure](https://www.dropbox.com/s/23wdcz1h3wbaptm/PhD-Statistics-Brochure.pdf?dl=0). Questions about the Ph.D. program can be directed to the current coordinator Gourab Mukherjee (gourab@usc.edu).
+
 ## Current PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
