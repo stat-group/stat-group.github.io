@@ -6,11 +6,11 @@ sitemap: false
 permalink: /seminars/
 ---
 
-# Seminars
+# Events
 
 ## Statistics Seminars 2023-2024
 
-**Organizers**: Paromita Dubey (paromita@marshall.usc.edu), Zijun Gao (zijungao@marshall.usc.edu), and Dennis Shen (shendenn@marshall.usc.edu).
+**Contact**: Paromita Dubey (paromita@marshall.usc.edu), Zijun Gao (zijungao@marshall.usc.edu), and Dennis Shen (shendenn@marshall.usc.edu).
 
 | Dates   | Speaker name       | Speaker institution                            |
 | ------- | ------------------ | ---------------------------------------------- |
