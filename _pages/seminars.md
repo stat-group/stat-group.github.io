@@ -1,12 +1,16 @@
 ---
 title: "Stat Group - Seminars"
 layout: textlay
-excerpt: "Stat Group -- Seminars"
+excerpt: "Stat Group -- Seminars and Events"
 sitemap: false
 permalink: /seminars/
 ---
 
-# Statistics Seminars
+# Seminars
+
+## Statistics Seminars 2023-2024
+
+**Organizers**: Paromita Dubey (paromita@marshall.usc.edu), Zijun Gao (zijungao@marshall.usc.edu), and Dennis Shen (shendenn@marshall.usc.edu).
 
 | Dates   | Speaker name       | Speaker institution                            |
 | ------- | ------------------ | ---------------------------------------------- |
