@@ -8,6 +8,6 @@ permalink: /allnews.html
 
 # News
 
-{% for article in site.data.news limit:1000 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+{% for article in site.data.news limit:10000 %}
+<p>{{ article.date }}<br>{{ article.headline}}</p>
 {% endfor %}
