@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are a dynamic research group at the [USC Marshall Business School](https://www.marshall.usc.edu/). The statistics group consists of ---- full time faculty. The group's main research interests are: Applications of statistics in marketing, finance and other business disciplines; High dimensional statistical inference. Including high dimensional regression, classification and variable selection; Financial econometrics; Functional data analysis; Large-scale multiple testing and Social and economic network analysis.
+We are a dynamic research group at the [USC Marshall Business School](https://www.marshall.usc.edu/). The statistics group consists of 17 full-time faculty. The group's main research interests are: Applications of statistics in marketing, finance, and other business disciplines; High dimensional statistical inference. Including high dimensional regression, classification and variable selection; Financial econometrics; Functional data analysis; Large-scale multiple testing and Social and economic network analysis.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
