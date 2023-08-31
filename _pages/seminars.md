@@ -24,7 +24,7 @@ permalink: /seminars/
 | March 8 | Nancy Zhang        | The Wharton School, University of Pennsylvania |
 | Mar 22  | Misha Belkin       | University of California, San Diego            |
 | Mar 29  | Keith Levin        | University of Wisconsin, Madison               |
-| Apr 12  | Armeen Taeb        | University of Washington, Seattle              |
-| TBA     | Oliver Linton      | University of Cambridge                        |
+| Apr 12  | Oliver Linton      | University of Cambridge                        |
+| Apr 19  | Armeen Taeb        | University of Washington, Seattle              |
 {:.table-striped}
 
