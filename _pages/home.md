@@ -45,6 +45,4 @@ We are a dynamic research group at the [USC Marshall Business School](https://ww
 
 
 
-Include further description and other useful information here.
-
 
