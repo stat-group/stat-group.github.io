@@ -22,14 +22,14 @@ We are a dynamic research group at the [USC Marshall Business School](https://ww
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 1" />
-        </div>
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/common_area.jpg" alt="Slide 2" />
+         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/reading_group.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/phd_group_pic.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dso_wall.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
