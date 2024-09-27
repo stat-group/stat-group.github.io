@@ -1,41 +1,48 @@
 - name: Rashmi Ranjan Bhuyan
   photo: Bhuyan_student.jpg
-  info: Fourth Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/rashmi-ranjan-bhuyan))
+  info: Fifth Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/rashmi-ranjan-bhuyan))
   email: RashmiRanjan.Bhuyan@marshall.usc.edu
   number_educ: 0
   education1: 
   
 - name: Sang-Wook Lee
   photo: Lee_student.jpg
-  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/sang-wook-lee))
+  info: Fourth Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/sang-wook-lee))
   email: sangwook@marshall.usc.edu
+  number_educ: 0
+  education1: 
+
+- name: Sunwoo Lim
+  photo: Lim_student.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/sunwoo-lim))
+  email: Sunwoo.Lim@marshall.usc.edu
   number_educ: 0
   education1: 
 
 - name: Jongmin Mun
   photo: Mun_student.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/jongmin-mun))
+  info: Second Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/jongmin-mun))
   email: jongmin.mun@marshall.usc.edu
   number_educ: 0
   education1: 
 
 - name: Tianmin Xie
   photo: Xie_student.jpg
-  info: Second Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/tianmin-xie))
+  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/tianmin-xie))
   email: tianmin.xie@marshall.usc.edu
   number_educ: 0
   education1: 
   
 - name: Letian Yang
   photo: Letian_student.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/letian-yang))
+  info: Second Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/letian-yang))
   email: letian.yang@marshall.usc.edu
   number_educ: 0
   education1: 
   
 - name: Yanfei Zhou
   photo: Zhou_student.jpg
-  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/yanfei-zhou))
+  info: Fourth Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/yanfei-zhou))
   email: yanfeizh@marshall.usc.edu
   number_educ: 0
   education1: 
