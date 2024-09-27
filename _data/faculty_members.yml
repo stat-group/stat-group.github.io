@@ -123,5 +123,14 @@
   email: xint@marshall.usc.edu
   number_educ: 1
   education1: Ph.D. Princeton University
+
+- name: Waverly Wei
+  photo: Wei.png
+  info: Assistant Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/waverly-wei))
+  email: waverly@marshall.usc.edu
+  number_educ: 1
+  education1: Ph.D. University of California, Berkeley
+  
+  
   
   
