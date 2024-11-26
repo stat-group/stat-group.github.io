@@ -26,7 +26,6 @@ permalink: /seminars/
 | March 7, 2025     | Ali Shojaie             | University of Washington                  |
 | March 14, 2025    | Tirthankar Dasgupta     | Rutgers University                        |
 | March 28, 2025    | Kevin Jamieson          | University of Washington                  |
-| April 4, 2025     | José R. Zubizarreta     | Harvard Medical School                    |
 | April 11, 2025    | Claire Donnat           | University of Chicago                     |
 {:.table-striped}
 
